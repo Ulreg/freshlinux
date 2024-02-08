@@ -1,0 +1,6 @@
+sudo apt update && sudo apt upgrade -yy
+sudo apt install htop btop vim signal-desktop terminator vlc virtualbox
+
+#####
+From flatpak/snap:
+Discord, SoundConverter
