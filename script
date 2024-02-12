@@ -4,3 +4,8 @@ sudo apt install htop btop vim signal-desktop terminator vlc virtualbox neofetch
 #####
 From flatpak/snap:
 Discord, SoundConverter
+
+
+######
+From somewhere else
+signal-desktop
