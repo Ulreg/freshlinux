@@ -1,5 +1,5 @@
 sudo apt update && sudo apt upgrade -yy
-sudo apt install htop btop vim signal-desktop terminator vlc virtualbox
+sudo apt install htop btop vim signal-desktop terminator vlc virtualbox neofetch
 
 #####
 From flatpak/snap:
